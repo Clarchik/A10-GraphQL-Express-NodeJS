@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GraphQLExperience"
+    }
+  },
+  "defaultProject": "GraphQLExperience",
+  "cli": {
+    "analytics": "c001e985-db02-43dc-b7aa-43a95bf9296f"
+  }
 }
